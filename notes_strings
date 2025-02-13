@@ -1,0 +1,15 @@
+Method	                            Description
+
+length()	                        Returns length of the String
+charAt(index)	                    Gets character at the given index
+substring(start, end)	            Extracts a substring
+toUpperCase()	                    Converts to uppercase
+toLowerCase()	                    Converts to lowercase
+concat(str)	                        Concatenates two strings
+equals(str)	                        Compares content of two strings
+indexOf(ch)	                        Returns first occurrence index of ch
+replace(old, new)	                Replaces part of a String
+trim()	                            Removes leading/trailing spaces
+split(delimiter)	                Splits String into an array
+StringBuffer	                    Mutable String (Thread-Safe)
+StringBuilder	                    Mutable String (Fast, Not Thread-Safe)
